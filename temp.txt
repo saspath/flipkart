@@ -1,0 +1,2 @@
+something we are learning about git
+git theory is done
