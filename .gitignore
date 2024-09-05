@@ -6,6 +6,6 @@ temp/
 secret.txt
 # Ignore all .txt files in a specific folder
 bin/*.log
-# Ignore all .env files except .env.example
+# Ignore all .env files except .env.sample
 .env
-!.env.example
+!.env.sample
