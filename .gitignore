@@ -5,7 +5,7 @@ temp/
 # Ignore a specific file
 secret.txt
 # Ignore all .txt files in a specific folder
-bin/*.log
+bin/*.txt
 # Ignore all .env files except .env.sample
 .env
 !.env.sample
